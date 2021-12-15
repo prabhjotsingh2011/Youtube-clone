@@ -4,8 +4,7 @@ import 'firebase/compat/auth'
 
 const firebaseConfig = {
 
-    
-    apiKey: `${process.env.REACT_APP_YT_API_KEY}`,
+    apiKey: "AIzaSyCGIvUwtq5uHiMIv99R0Nq-kQ-qeMXOLaQ",
     authDomain: "yt-klon.firebaseapp.com",
     projectId: "yt-klon",
     storageBucket: "yt-klon.appspot.com",
